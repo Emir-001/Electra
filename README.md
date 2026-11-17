@@ -4,6 +4,8 @@
 
 👉 **[Live Demo](https://ai-assisted-financial-risk-simulator-44fben3bq-emir-hackathon.vercel.app)** *(optimised for desktop; mobile support is planned)*
 
+![Electra screenshot](docs/screenshot.png)
+
 Electra analyses a user's income, expenses, debt structure and savings goals. Instead of applying static rules, it combines official macroeconomic data from Türkiye and the world with Google Gemini's reasoning to produce personalised risk reports, 12-month savings projections and prioritised action plans.
 
 ---
